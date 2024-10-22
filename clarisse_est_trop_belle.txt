@@ -1,2 +1,3 @@
 print("clarisse est trop moche")
 print("Valentine est trop belle")
+print("je suis d'accord")
